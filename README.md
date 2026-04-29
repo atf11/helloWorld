@@ -5,6 +5,8 @@ agent-browser install
 
 ChrisWiles/claude-code-showcase
 
+https://www.aiking.dev/blog/%E8%80%81%E9%87%91%E5%8F%91%E7%8E%B0%E4%B8%AA4277%E6%98%9F%E7%9A%84claude-code%E4%BC%81%E4%B8%9A%E7%A5%9E%E5%99%A8-%E7%9C%8B%E5%AE%8C%E6%88%91%E7%9B%B4%E6%8E%A5%E8%B7%AA%E4%BA%86
+
 npx zcf
 
 https://github.com/slicenferqin/sanjiu-jenkins-cli
