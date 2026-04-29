@@ -1,5 +1,8 @@
 code-explainer
 
+npm install -g agent-browser
+agent-browser install
+
 https://github.com/slicenferqin/sanjiu-jenkins-cli
 
 
