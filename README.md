@@ -3,6 +3,8 @@ code-explainer
 npm install -g agent-browser
 agent-browser install
 
+ChrisWiles/claude-code-showcase
+
 npx zcf
 
 https://github.com/slicenferqin/sanjiu-jenkins-cli
