@@ -1,0 +1,30 @@
+❯ 用 Remotion 做一个视频：
+  - 1920x1080，5 秒
+  - 一行文字 "Hello World" 从左边飞进来
+  - 同时带旋转和缩放效果
+  - 背景是渐变色
+
+● 我来帮你用 Remotion 创建这个视频！
+
+● Bash(pwd)
+  ⎿  /home/centos/project/project2
+
+● Bash(npx create-video@latest --yes --blank --no-tailwind hello-world-video)
+  ⎿  npm warn exec The following package was not found and will be installe
+     d: create-video@4.0.457
+     npm warn deprecated tar@6.2.1: Old versions of tar are not supported,
+     … +22 lines (ctrl+o to expand)
+  ⎿  (timeout 2m)
+
+● Bash(cd hello-world-video && npm i)
+  ⎿  Running in the background (↓ to manage)
+  ⎿  (timeout 2m)
+
+● Bash(sleep 30)
+  ⎿  (No output)
+
+  Read 1 file (ctrl+o to expand)
+
+● Bash(sleep 60)
+  ⎿  Running… (14s)
+     (ctrl+b to run in background)
