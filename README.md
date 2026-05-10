@@ -1,5 +1,7 @@
 code-explainer
 
+https://github.com/mali9527/claude-code-full-guide-for-beginners
+
 npm install -g agent-browser
 agent-browser install
 
