@@ -1,3 +1,7 @@
+Jenkins AI plugin
+
+ai-agent-plugin
+
 code-explainer
 
 simple ref:
